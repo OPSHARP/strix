@@ -1,3 +1,27 @@
+<div align="center">
+
+  <!-- 3D DYNAMIC WAVING BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=32,24,14,4,0&height=220&section=header&text=Strix%20Pentest&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%94%8D%20Automated%20AI-Powered%20Web%20%26%20API%20Penetration%20Testing%20Tool&descAlignY=62&descAlign=50" width="100%" alt="Strix Pentest 3D Banner" />
+
+  <!-- 3D ANIMATED PROJECT ICON -->
+  <a href="https://github.com/OPSHARP/strix">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="95" height="95" alt="Strix Pentest 3D Icon" />
+  </a>
+
+  <h1>Strix Pentest</h1>
+  <p><b>🔍 Automated AI-Powered Web & API Penetration Testing Tool</b></p>
+
+  <!-- 3D TECH STACK CARDS -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,docker,fastapi,git&theme=dark" alt="3D Tech Stack" />
+    </a>
+  </p>
+
+</div>
+
+---
+
 <p align="center">
   <a href="https://strix.ai/">
     <img src="https://github.com/usestrix/.github/raw/main/imgs/cover.png" alt="Strix Banner" width="100%">
@@ -386,4 +410,10 @@ Strix builds on the incredible work of open-source projects like [LiteLLM](https
 > **Authorized use only.** Strix actively tests the targets you point it at, so only run it against systems you own or have **explicit, written permission** to test, and stay within the agreed scope. Unauthorized testing is illegal in most jurisdictions.
 > You alone are responsible for obtaining authorization and complying with the law. Strix is provided "as is" with no warranty or liability for misuse.
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=32,24,14,4,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
 </div>
