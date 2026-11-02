@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=32,24,14,4,0&height=220&section=header&text=Strix%20Pentest&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%94%8D%20Automated%20AI-Powered%20Web%20%26%20API%20Penetration%20Testing%20Tool&descAlignY=62&descAlign=50" width="100%" alt="Strix Pentest 3D Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=32,24,14,4,0&height=220&section=header&text=Strix%20Pentest&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%94%8D%20Automated%20AI-Powered%20Web%20%E2%80%A2%20API%20Penetration%20Testing%20Tool&descAlignY=62&descAlign=50" width="100%" alt="Strix Pentest 3D Banner" />
 
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/strix">
